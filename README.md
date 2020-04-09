@@ -9,3 +9,6 @@ First install selenium onto your system
 pip install selenium
 ```
 
+
+The next step is to understand how selenium automation works:
+
