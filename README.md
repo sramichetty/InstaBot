@@ -3,11 +3,16 @@ This ia an instagrambot that is made using selenium(automation) and python.The a
 
 ## The following are the steps to download and run the project.
 
+Install chromedriver by after checking the version of google chrome you are using
+
+
 ### selenium architecture and working
 
 
 
-First install selenium onto your system:
+
+
+Next install selenium onto your system:
 
 
 
