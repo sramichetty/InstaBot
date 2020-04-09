@@ -3,10 +3,7 @@ This ia an instagrambot that is made using selenium(automation) and python.The a
 
 ## Getting Started
 
-
-### selenium web driver architecture and working
-
-#### What is Selenium?
+### What is Selenium?
 Selenium is an Opensource Automation testing tool which is only meant for testing Web-based applications and cannot be used for desktop based, windows based applications. It runs in multiple browsers and multiple operating systems.Currently we are using selenium 3.0 version.
 
 The Selenium Suit compraises of Selenium Grid,Selenium RC,Selenium IDE
