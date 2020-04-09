@@ -7,7 +7,9 @@ This ia an instagrambot that is made using selenium(automation) and python.The a
 
 
 
-First install selenium onto your system
+First install selenium onto your system:
+
+
 
 
 ```bash
