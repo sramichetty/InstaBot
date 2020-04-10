@@ -10,6 +10,13 @@ The Selenium Suit compraises of Selenium Grid,Selenium RC,Selenium IDE
 
 The Selenium Grid is a parllel Execution tool where you can run selenium scripts on multiple operating systems connecting it a single operating system,so that we can run our test cases parallel across different machines which saves our time.
 
+Selenium IDE is a tool which basically runs only on Chrome and Firefox browsers. It generates no reports and cannot execute multiple test cases. For example, if we have 5000 test cases then IDE cannot work, it’s not a robust tool to execute multiple test cases. It cannot generate logs.
+
+
+Selenium RC, which is deprecated now in present market can write dynamic scripts which could work on multiple browsers. In Selenium RC, we had to learn a programming language like Python, C#, Ruby, Java to execute Selenium RC. It can generate Reports and logs.
+
+
+
 
 
 
